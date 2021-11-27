@@ -1,0 +1,10 @@
+Admin Login
+------------
+
+UserName: admin@gmail.com
+Password: admin
+
+User Login
+-------------
+UserName: rukshan@gmail.com
+Password: rukshan
